@@ -334,7 +334,7 @@ const styles = {
   },
 
   pageContainer: {
-    minHeight: '93vh',
+    minHeight: '100vh',
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
